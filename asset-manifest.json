@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/CoronaTracker/static/css/main.18bcb271.chunk.css",
-    "main.js": "/CoronaTracker/static/js/main.853915aa.chunk.js",
-    "main.js.map": "/CoronaTracker/static/js/main.853915aa.chunk.js.map",
+    "main.js": "/CoronaTracker/static/js/main.fa828928.chunk.js",
+    "main.js.map": "/CoronaTracker/static/js/main.fa828928.chunk.js.map",
     "runtime-main.js": "/CoronaTracker/static/js/runtime-main.a2d65459.js",
     "runtime-main.js.map": "/CoronaTracker/static/js/runtime-main.a2d65459.js.map",
     "static/css/2.829c9cb5.chunk.css": "/CoronaTracker/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.ffaca2bb.chunk.js": "/CoronaTracker/static/js/2.ffaca2bb.chunk.js",
-    "static/js/2.ffaca2bb.chunk.js.map": "/CoronaTracker/static/js/2.ffaca2bb.chunk.js.map",
+    "static/js/2.15255ffa.chunk.js": "/CoronaTracker/static/js/2.15255ffa.chunk.js",
+    "static/js/2.15255ffa.chunk.js.map": "/CoronaTracker/static/js/2.15255ffa.chunk.js.map",
     "index.html": "/CoronaTracker/index.html",
-    "precache-manifest.57ecdcba9fb541556364eec3e58c1ec1.js": "/CoronaTracker/precache-manifest.57ecdcba9fb541556364eec3e58c1ec1.js",
+    "precache-manifest.c07c0e89d91e7dca9e1de874df62daf1.js": "/CoronaTracker/precache-manifest.c07c0e89d91e7dca9e1de874df62daf1.js",
     "service-worker.js": "/CoronaTracker/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/CoronaTracker/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.18bcb271.chunk.css.map": "/CoronaTracker/static/css/main.18bcb271.chunk.css.map",
-    "static/js/2.ffaca2bb.chunk.js.LICENSE.txt": "/CoronaTracker/static/js/2.ffaca2bb.chunk.js.LICENSE.txt"
+    "static/js/2.15255ffa.chunk.js.LICENSE.txt": "/CoronaTracker/static/js/2.15255ffa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a2d65459.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.ffaca2bb.chunk.js",
+    "static/js/2.15255ffa.chunk.js",
     "static/css/main.18bcb271.chunk.css",
-    "static/js/main.853915aa.chunk.js"
+    "static/js/main.fa828928.chunk.js"
   ]
 }
